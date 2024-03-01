@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBROIhKCNfcOD4JQPPiTfeCNsu6B4b1pAg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>820317306432</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>talladegac2.EduPulse</string>
+	<key>PROJECT_ID</key>
+	<string>edupulse-auth</string>
+	<key>STORAGE_BUCKET</key>
+	<string>edupulse-auth.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:820317306432:ios:cfd24f8728d0da26bb29a5</string>
+</dict>
+</plist>
